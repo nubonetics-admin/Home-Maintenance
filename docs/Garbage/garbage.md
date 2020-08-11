@@ -21,6 +21,7 @@ permalink: docs/garbage
 | [City Waste Services](https://citywasteservices.ca/bin-types-and-sizes/) | $145 (8yd^3) + $85/ton | $145 (10yd^3) + $85/ton | $145 (14yd^3) + $85/ton |
 | [Dump Squad](https://dumpsquad.ca/) | $99 (4yd^3)+$99/ton (min $240) | $99 (10yd^3)+$99/ton (min $240) | $99 (14yd^3)+$99/ton (min $240) |
 | [Flat Rate Bin](https://www.flatratebin.ca/) | $250 (6yd^3) | $300 (10yd^3) | $360 (14yd^3) |
+| [Toronto Mini Bins](http://www.torontominibins.com/rates.php) |  $230 (6yd^3) | $300 (10yd^3) | $360 (14yd^3) |
 
 # Large bins
 * [Bin Depot](https://www.bindepot.com/)
