@@ -9,6 +9,9 @@ permalink: docs/garbage
 # Garbage
 {: .no_toc }
 
+# Drop-off Depot
+* [City of Toronto - Scarborough Transfer Station / Drop-off Depot](https://goo.gl/maps/oqZaQGaLmGziGeLN6)
+
 # Bin rental
 
 |           | Small              | Medium                                    | Large                                  |
