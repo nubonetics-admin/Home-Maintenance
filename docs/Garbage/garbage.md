@@ -22,6 +22,7 @@ permalink: docs/garbage
 | [Dump Squad](https://dumpsquad.ca/) | $99 (4yd^3)+$99/ton (min $240) | $99 (10yd^3)+$99/ton (min $240) | $99 (14yd^3)+$99/ton (min $240) |
 | [Flat Rate Bin](https://www.flatratebin.ca/) | $250 (6yd^3) | $300 (10yd^3) | $360 (14yd^3) |
 | [Toronto Mini Bins](http://www.torontominibins.com/rates.php) |  $230 (6yd^3) | $300 (10yd^3) | $360 (14yd^3) |
+| [Scarborough Disposal](https://scarboroughdisposal.com/landing/) | $250 (4yd^3, 1 ton) | $275 (10yd^3, 1.25 ton) | $300 (14yd^3, 1.5 ton) |
 
 # Large bins
 * [Bin Depot](https://www.bindepot.com/)
