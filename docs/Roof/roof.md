@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Garbage
+title: Roof
 nav_order: 4
 has_children: true
-permalink: docs/garbage
+permalink: docs/roof
 ---
 
 # Roof
